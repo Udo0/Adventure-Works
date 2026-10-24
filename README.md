@@ -33,3 +33,7 @@ Project files and dashboard screenshots will be added as the project develops.
 Author
 
 Aspiring Data Analyst | SQL Server | Power BI
+
+## Dashboard Preview
+
+![AdventureWorks Sales Dashboard](dashboard.png)
