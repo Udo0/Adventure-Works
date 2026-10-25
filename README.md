@@ -2,38 +2,53 @@ AdventureWorks Sales Analysis
 
 Project Overview
 
-This project analyzes sales data using SQL Server and Power BI to identify sales trends, product performance, and profitability.
+An exploratory sales analysis project using SQL Server and Power BI to understand sales performance, product profitability, and customer purchasing behavior.
 
 Tools & Technologies
 
-* Microsoft SQL Server
-* SQL
+* SQL Server
+* SQL Server Management Studio (SSMS)
 * Microsoft Power BI
 * DAX
 
-Business Objectives
+Business Questions
 
-* Analyze sales revenue across different years.
-* Identify top-performing products.
-* Compare product revenue and profitability.
-* Understand customer purchasing behavior.
-* Support data-driven business decisions.
+* How does sales performance change across years?
+* Which products generate the highest revenue?
+* Which products deliver the strongest profitability?
+* How can customer purchasing behavior support business decisions?
 
-Key Analysis
+Analysis Performed
 
-* Sales performance by year.
-* Top 10 products by revenue.
-* Product profitability and gross profit.
-* Customer purchasing patterns.
+* Sales aggregation and year-based comparisons.
+* Product ranking by revenue.
+* Gross profit and profitability analysis.
+* Customer purchasing behavior analysis.
+* SQL joins, aggregations, and window functions.
+
+Dashboard Preview
 
 Project Files
 
-Project files and dashboard screenshots will be added as the project develops.
+* sales_analysis.sql — SQL analysis scripts. (Adjust this filename to match your uploaded file.)
+* AdventureWorks_Sales_Analysis.pbix — Power BI report.
 
-Author
+Key Findings
+
+
+Mountain-200: Product Performance Analysis (2023–2025)
+
+Mountain-200 was identified as a leading product model in the analysis, with approximately 14,600 units sold across its different variants.
+
+The model also demonstrated strong revenue performance. Its availability in multiple sizes and colors may help address diverse customer preferences.
+
+Business Recommendations
+
+* Analyze sales volume and revenue by individual variant.
+* Identify the most profitable sizes and colors.
+* Optimize inventory allocation based on demand.
+* Investigate customer demographics and purchasing patterns before drawing conclusions about age-group preferences.
+
+Sales volume and revenue figures should be validated against the underlying dataset before final publication.
 
 Aspiring Data Analyst | SQL Server | Power BI
-
-## Dashboard Preview
-
-![AdventureWorks Sales Dashboard](dashboard.png)
