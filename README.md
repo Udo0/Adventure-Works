@@ -36,7 +36,7 @@ Analysis Performed
 
 ![Product Model and Profit Margin Analysis](<dashboard adv 2.png>)
 
-Project Files
+
 
 ## Project Files
 
