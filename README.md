@@ -30,7 +30,7 @@ Dashboard Preview
 
 Project Files
 
-* sales_analysis.sql — SQL analysis scripts. (Adjust this filename to match your uploaded file.)
+* sales_analysis.sql — SQL analysis scripts. (dashboard adv.png)
 * AdventureWorks_Sales_Analysis.pbix — Power BI report.
 
 Key Findings
