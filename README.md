@@ -38,7 +38,7 @@ Analysis Performed
 
 Project Files
 
-* sales_analysis.sql — SQL analysis scripts. (<Sales analysis.sql>)
+* sales_analysis.sql — SQL analysis scripts. (Sales analysis.sql)
 * AdventureWorks_Sales_Analysis.pbix — Power BI report.
 
 Key Findings
