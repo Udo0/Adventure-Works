@@ -26,7 +26,15 @@ Analysis Performed
 * Customer purchasing behavior analysis.
 * SQL joins, aggregations, and window functions.
 
-Dashboard Preview
+## Dashboard Preview
+
+### Full Dashboard
+
+![Full AdventureWorks Sales Dashboard](dashboard adv.png)
+
+### Product Model & Profit Margin Analysis
+
+![Product Model and Profit Margin Analysis](dashboard_adv2.png)
 
 Project Files
 
