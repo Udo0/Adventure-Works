@@ -30,11 +30,11 @@ Analysis Performed
 
 ### Full Dashboard
 
-![Full AdventureWorks Sales Dashboard](dashboard adv.png)
+![Full AdventureWorks Sales Dashboard](dashboard adv 1.png)
 
 ### Product Model & Profit Margin Analysis
 
-![Product Model and Profit Margin Analysis](dashboard_adv2.png)
+![Product Model and Profit Margin Analysis](dashboard adv 2.png)
 
 Project Files
 
